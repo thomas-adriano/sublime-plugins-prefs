@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"DocBlockr",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"JavaScript Snippets",
+		"Markdown Preview",
+		"Package Control",
+		"Sass",
+		"SASS Snippets",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Terminal"
+	]
+}
