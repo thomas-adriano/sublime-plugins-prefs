@@ -1,0 +1,6 @@
+[
+	{
+		"keys": ["super+alt+l"],
+		"command": "htmlprettify"
+	},
+]
