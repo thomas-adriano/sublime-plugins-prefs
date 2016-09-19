@@ -16,8 +16,9 @@
 		"Package Control",
 		"Sass",
 		"SASS Snippets",
-		"SublimeCodeIntel",
 		"SublimeLinter",
-		"Terminal"
+		"Terminal",
+		"WordHighlight",
+		"Nodejs"
 	]
 }
